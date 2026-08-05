@@ -1,0 +1,10 @@
+For Task 3
+-> after opening the packet, wait till all the connections become green-> click on pc1->Desktop-> ip config-> 
+It will be in DHCP-> click on static-> then click on DHCP
+
+after that it will become 100% again.
+
+For Task 2
+-> after opening the packet, wait till all the connections become green-> click on DHCP server-> It will be off -> Turn it ON
+
+after that it will become 100% again.
