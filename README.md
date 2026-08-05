@@ -1,10 +1,10 @@
-This is the Software Engineering course at BRAC University.
+This is the Computer Networks course at BRAC University.
 
-Description: Introduces students to all aspects of the SDLC. Make them familiar with standard practices and techniques in the software industry. It aims to reduce the gap between academic and industry practice. Projects by students where they analyze the requirements and develop a system with industry best practices.
+Description: An introduction to fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications. Topics to be covered include: overview of network architectures, applications, network programming interfaces (e.g., sockets), transport, congestion, routing, and data link protocols, addressing, local area networks, wireless networks, and network security. Examples will be drawn primarily from the Internet (e.g., TCP, UDP, and IP) protocol suite.
 
-Course Name: Software Engineering [CSE470]
+Course Name: Computer Networks [CSE421]
 
 Semester: Summer 2026
 
-Course Instructors: Pollock Nag [PLN]
+Course Instructors: Sadia Hamid Kazi, PhD [SKZ]
 
