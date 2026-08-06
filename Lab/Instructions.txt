@@ -1,3 +1,5 @@
+For Lab 3
+
 For Task 3
 -> after opening the packet, wait till all the connections become green-> click on pc1->Desktop-> ip config-> 
 It will be in DHCP-> click on static-> then click on DHCP
